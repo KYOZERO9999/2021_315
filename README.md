@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# 315，小光喊你来"真假大作战"
+2021年cocos实现的315辨真假项目
